@@ -30,7 +30,7 @@ Writing academic papers from conference presentations and audience poll data is 
 
 The application opens as a clean, scrollable desktop window with four clearly labelled steps:
 
-![AI Research Paper Generator - Main Interface](screenshots/research_generator_app_2.jpg)
+![AI Research Paper Generator - Main Interface](screenshot/research_generator_app_2.jpg)
 
 > **Step 1** — Optionally enter your own Anthropic API key, or use the built-in default. **Step 2** — Select the working folder containing your PowerPoint. **Step 3** — Scan for files automatically. The app finds the most recent `.pptx`, `.pdf`, `.csv`, or `.xlsx` in the folder without any manual selection.
 
@@ -40,7 +40,7 @@ The application opens as a clean, scrollable desktop window with four clearly la
 
 Once files are detected, one click starts the full pipeline. A real-time Activity Log shows exactly what is happening at each stage:
 
-![AI Research Paper Generator - Generation in Progress](screenshots/research_generator_app_1.jpg)
+![AI Research Paper Generator - Generation in Progress](screenshot/research_generator_app_1.jpg)
 
 > The progress bar and timestamped log keep you informed throughout the 2–5 minute generation process. When complete, the output folder opens automatically with your `.docx` ready to use.
 
